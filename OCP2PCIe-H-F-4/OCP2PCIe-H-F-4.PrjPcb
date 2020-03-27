@@ -52,7 +52,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KARESARB
 
 [Document2]
 DocumentPath=OCP2PCIe-H-F-4.PcbLib
@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CSMITBQY
 
 [Document4]
 DocumentPath=OCP2PCIe-H-F-4.SchLib
@@ -103,7 +103,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LTLBPDYG
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for OCP2PCIe-H-F-4\Design Rule Check - OCP2PCIe-H-F-4.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
