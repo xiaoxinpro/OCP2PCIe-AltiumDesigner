@@ -5,7 +5,7 @@
 
 > 如果你是小白，无需完整任何软件，直接从 *打样* 章节开始看即可，其他内容可无视。
 
-![OCP2PCIe-H-F-4 A1.0Beta](https://upload-images.jianshu.io/upload_images/1568014-4e92fed5dd8d57c6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![OCP2PCIe-H-F-4 A1.0Beta](https://upload-images.jianshu.io/upload_images/1568014-abe21169687f10fc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 原理图
 
