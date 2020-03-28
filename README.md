@@ -5,7 +5,7 @@
 
 > 如果你是小白，无需完整任何软件，直接从 *打样* 章节开始看即可，其他内容可无视。
 
-![OCP2PCIe-H-F-4 A1.0Beta](https://upload-images.jianshu.io/upload_images/1568014-abe21169687f10fc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![OCP2PCIe-H-F-4 A1.1Beta](https://upload-images.jianshu.io/upload_images/1568014-7e8113da97d984a7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 原理图
 
@@ -24,7 +24,7 @@
 |名称|参数|
 |---|---|
 |板子层数|2|
-|板子尺寸|11.2cm x 8.28cm|
+|板子尺寸|10.00cm x 8.28cm|
 |板子厚度|1.6mm|
 |阻焊覆盖|过孔盖油|
 |焊盘喷镀|*沉金* > *无铅喷锡* > *有铅喷锡*|
