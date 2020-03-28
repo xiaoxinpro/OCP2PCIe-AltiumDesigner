@@ -1,7 +1,7 @@
 
 # OCP2PCIe-AltiumDesigner
 
-本分支基于原 [OCP2PCIe](https://github.com/KCORES/OCP2PCIe/) 项目使用 Altium Designer 19 重新绘制的转接板。
+本分支基于原 [OCP2PCIe](https://github.com/xiaoxinpro/OCP2PCIe-AltiumDesigner/tree/KiCad-V1) 项目使用 Altium Designer 19 重新绘制的转接板。
 
 > 如果你是小白，无需完整任何软件，直接从 *打样* 章节开始看即可，其他内容可无视。
 
@@ -34,7 +34,7 @@
 
 ## 采购元件与焊接
 
-可根据原 [OCP2PCIe](https://github.com/KCORES/OCP2PCIe/) 项目说明进行元器件购买和焊接。
+可根据原 [OCP2PCIe](https://github.com/xiaoxinpro/OCP2PCIe-AltiumDesigner/blob/KiCad-V1/doc/UserGuide_zh.md) 项目说明进行元器件购买和焊接。
 
 元器件清单如下：
 
@@ -47,3 +47,7 @@
 
 > 更多内容与详细内容请查看原 [OCP2PCIe](https://github.com/KCORES/OCP2PCIe/) 项目相关说明。
 
+## 参考
+
+* [Altium Designer](https://www.altium.com.cn/)
+* [OCP2PCIe](https://github.com/KCORES/OCP2PCIe/)
